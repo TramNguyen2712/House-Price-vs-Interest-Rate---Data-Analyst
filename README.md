@@ -6,4 +6,19 @@ Conversely, when interest rates fell, the cost of financing for home buyers went
 
 However, in the last couple of years, this inverse correlation between interest rates and home values has become decoupled. Despite rising inflation driving interest rates higher, home prices have not only remained steady but in many markets they have continued to rise sharply. Several factors help explain this anomalous situation. 
 
-This project will review findings on the interest rate-home price relationship before and after COVID-19 and examine factors (inflation, house inventory, moving trend, labor shortage) that affect house prices in four states (MN, MO, GA) that help explain this apparent deviation from established economic models.  
+This project will review findings on the interest rate-home price relationship before and after COVID-19 and examine factors (inflation, house inventory, moving trend, labor shortage) that affect house prices in four states (MN, MO, GA) that help explain this apparent deviation from established economic models. 
+
+The project planning 
+
+![image](https://github.com/TramNguyen2712/House-Price-vs-Interest-Rate---Data-Analyst/assets/56002685/6bd01972-17e8-4ddb-a159-493c2d6b85d1)
+
+Power BI dashboard
+![image](https://github.com/TramNguyen2712/House-Price-vs-Interest-Rate---Data-Analyst/assets/56002685/1aa443ae-4bfc-4656-9718-e43349b329e8)
+
+![image](https://github.com/TramNguyen2712/House-Price-vs-Interest-Rate---Data-Analyst/assets/56002685/9776172a-4e6c-4ef3-8b98-f6a03a0d11d6)
+
+
+
+
+
+
