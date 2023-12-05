@@ -1,0 +1,31 @@
+Region,City Type,City Name,Year,Population
+North,Metropolitan,"Minneapolis, MN",2018,424310
+North,Metropolitan,"Minneapolis, MN",2019,428821
+North,Metropolitan,"Minneapolis, MN",2020,"429,985"
+North,Metropolitan,"Minneapolis, MN",2021,"424,635"
+North,Metropolitan,"Minneapolis, MN",2022,"425,096"
+North,Suburban,"Lakeville, MN",2018,65840
+North,Suburban,"Lakeville, MN",2019,67384
+North,Suburban,"Lakeville, MN",2020,"70,175"
+North,Suburban,"Lakeville, MN",2021,"72,751"
+North,Suburban,"Lakeville, MN",2022,"74,553"
+South,Metropolitan,"Atlanta, GA",2018,498772
+South,Metropolitan,"Atlanta, GA",2019,507301
+South,Metropolitan,"Atlanta, GA",2020,"498,722"
+South,Metropolitan,"Atlanta, GA",2021,"492,667"
+South,Metropolitan,"Atlanta, GA",2022,"499,127"
+South,Suburban,"Marietta, GA",2018,60602
+South,Suburban,"Marietta, GA",2019,60807
+South,Suburban,"Marietta, GA",2020,"61,052"
+South,Suburban,"Marietta, GA",2021,"59,998"
+South,Suburban,"Marietta, GA",2022,"62,602"
+Middle,Metropolitan,"St. Louis, MO",2018,303661
+Middle,Metropolitan,"St. Louis, MO",2019,300887
+Middle,Metropolitan,"St. Louis, MO",2020,"301,574"
+Middle,Metropolitan,"St. Louis, MO",2021,"293,562"
+Middle,Metropolitan,"St. Louis, MO",2022,"286,578"
+Middle,Suburban,"St.Charles, MO",2018,70777
+Middle,Suburban,"St.Charles, MO",2019,70951
+Middle,Suburban,"St.Charles, MO",2020,"70,562"
+Middle,Suburban,"St.Charles, MO",2021,"71,048"
+Middle,Suburban,"St.Charles, MO",2022,"71,184"
